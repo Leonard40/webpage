@@ -1,0 +1,80 @@
+/*Selector {
+	property:value;
+}*/
+
+*{
+	text-align: right;  
+}
+
+body {
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+}
+ 
+p {
+	color: #AA5139;
+	text-align: center;
+	border: 5px solid rgb(255, 188, 170, 0.5);
+	cursor: pointer;
+
+}
+
+p {
+	line-height: 5px;
+	font-style: italic;
+	font-weight:  bold;
+	font-size: 100%;
+	font-family: "Time New Roman", Georgia;
+}
+
+ima{
+	float: right;
+
+}
+
+footer {
+	clear: both;
+	text-align: left;
+}
+
+
+p {
+	color: green;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext:first-child {
+	border: 5px dashed green;
+}
+
+.active{
+	color: red;
+}
+
+#div1{
+	background: rgba(0, 0, 255, 0.2);
+}
+
+#div2{
+	background: rgba( 225, 0, 0, 0.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
